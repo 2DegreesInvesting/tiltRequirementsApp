@@ -12,7 +12,7 @@ The goal of tiltRequirementsApp is to provide an app for
 ## Installation
 
 You can install the development version of tiltRequirementsApp from
-[GitHub](https://github.com/) with:
+[GitHub](https://github.com/) with
 
 ``` r
 # install.packages("devtools")
