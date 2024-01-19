@@ -1,0 +1,10 @@
+name: tiltrequirementsapp
+title:
+username: tiltsmes
+account: tiltsmes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10971505
+bundleId: 8162166
+url: https://tiltsmes.shinyapps.io/tiltrequirementsapp/
+version: 1
